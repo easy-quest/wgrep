@@ -27,7 +27,7 @@
     "co-prompt": "^1.0.0",
     "commander": "^8.2.0",
     "fs-extra": "^10.0.0",
-    "puppeteer": "^10.4.0",
+    "puppeteer": "^22.6.4",
     "shelljs": "^0.8.4"
   },
   "devDependencies": {
